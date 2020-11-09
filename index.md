@@ -8,6 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<div class="countdown" countdown data-date="Jan 1 2017 00:00:00">
+  <span data-heading>New Year Countdown</span>
+  <span data-days>0</span>days
+  <span data-hours>0</span>hours
+  <span data-minutes>0</span>minutes
+  <span data-seconds>0</span>seconds
+</div>
+
 ```markdown
 Syntax highlighted code block
 
